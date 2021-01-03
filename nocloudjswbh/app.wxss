@@ -1,0 +1,4 @@
+@import "/icon.wxss";
+page {
+  height: 100%;
+}
