@@ -6,5 +6,6 @@
     "navigationBarBackgroundColor": "#ffffff",
     "navigationBarTextStyle": "black",
     "navigationBarTitleText": "心绘汉字"
-  }
+  },
+  "sitemapLocation": "sitemap42.json"
 }
